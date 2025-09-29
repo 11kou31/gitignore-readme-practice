@@ -1,0 +1,6 @@
+# .gitignoreファイルの中身
+__pycache__/
+*.txt
+debug.log
+tmp/
+Janken.class
